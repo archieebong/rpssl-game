@@ -14,8 +14,8 @@ human_choice = ""
 computer_choice = ""
 
 
-def choice_to_number(choice):
-    """Convert choice to number."""
+def choice_to_number():
+    """Convert choice to ."""
 
     # TODO: Implement
     # NOTE
@@ -24,7 +24,10 @@ def choice_to_number(choice):
     # 1. Dictionary-based solution: 100%
     # 2. Chain-of-if-statements solution: 80%
 
-    raise NotImplementedError
+    if number_to_choice([1-3])
+
+
+
 
 
 def number_to_choice(number):
@@ -71,7 +74,9 @@ def choice_result(human_move, computer_move):
     # 1. Modulo-based solution: 100%
     # 2. Chain-of-if-statements solution: 80%
 
-    raise NotImplementedError
+    print('rock', 'paper, '
+    scissors ()
+    ','spock', 'lizard'):
 
 
 # DO NOT REMOVE THESE TEST FUNCTIONS.
